@@ -5,5 +5,6 @@ public class Average {
         //4
         double media = (double) total / (double) count;
         System.out.println("Media: " + media);
+        //a
     }
 }
